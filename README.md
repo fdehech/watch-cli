@@ -1,14 +1,15 @@
-**Watch CLI** is a cross-platform command-line tool that lets you quickly search for movies or TV series, generate a local HTML page with an embedded video player, and open it in your browser. It supports specifying seasons and episodes for TV series and works on **Windows, macOS, and Linux**.
+# Watch CLI
+
+**Watch CLI** is a cross-platform command-line tool that allows you to quickly search for movies or TV series, generate a local HTML page with an embedded video player, and open it in your browser. It supports specifying seasons and episodes for TV series and works seamlessly on **Windows, macOS, and Linux**.
 
 ---
 
 ## Features
 
-- Search movies or TV series by title using TMDB API
-- Generate an HTML file with an <iframe> to watch the content
-- Open the HTML automatically in your default browser
+- Search for movies or TV series by title using the TMDB API
+- Automatically open the HTML in your default browser
 - Cross-platform support
-- Securely handle API keys with environment variables
+- Securely manage API keys with environment variables
 
 ---
 
